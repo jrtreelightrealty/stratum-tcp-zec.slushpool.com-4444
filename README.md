@@ -1,0 +1,1 @@
+# stratum-tcp-zec.slushpool.com-4444
